@@ -16,7 +16,7 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-image:linear-gradient(to right,grey, #bdbdbd , white) ;
     padding: 20px;
     font-family: Arial;
   }
@@ -58,15 +58,6 @@
     background-color: #272b30;
     padding: 10px;
     border-radius: 10px;
-  }
-  
-  footer {
-    background-color: #272b30;
-    padding: 20px;
-    color: white;
-    text-align: center;
-    font-size: 1em;
-    border-radius: 10px;
-  
+    display: inline-flex;
   }
   
